@@ -6,9 +6,14 @@
 
 <img width="756" height="368" alt="image" src="https://github.com/user-attachments/assets/aa815e31-1643-4c2b-afda-0c436818087e" />
 
-## Tabulations
+## GRAPH:
+![WhatsApp Image 2025-11-23 at 20 23 10_5c32b307](https://github.com/user-attachments/assets/cbb9819a-41de-4cb1-8adf-22c03d9b4b7f)
 
-## Graph
+
+
+## CIRCUIT DIAGRAM:
+![WhatsApp Image 2025-11-23 at 20 23 40_0a49a163](https://github.com/user-attachments/assets/9040b507-28b2-4861-9e1e-9256b1b0c505)
+
 
 
 <img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
