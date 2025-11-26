@@ -4,9 +4,16 @@
 <img width="811" height="708" alt="image" src="https://github.com/user-attachments/assets/e0caa2dd-cc57-4642-987f-53e4f8f78903" />
 
 
-## ATTACH THE CORRECT CIRCUIT
+## ATTACH THE CORRECT CIRCUIT:
 
-## GRAPHS
+
+![WhatsApp Image 2025-11-26 at 13 24 38_508f39d7](https://github.com/user-attachments/assets/89bcc8ae-d66f-47ae-93fd-4b214b377d3b)
+
+
+## GRAPHS:
+
+![WhatsApp Image 2025-11-26 at 13 13 05_f877de5a](https://github.com/user-attachments/assets/d71af087-7288-470a-a58e-da114eacc8a2)
+
 
 
 <img width="936" height="122" alt="image" src="https://github.com/user-attachments/assets/2d2e2399-6a9f-49ec-b40c-3c2982d4b82c" />
