@@ -7,8 +7,19 @@
 <img width="902" height="543" alt="image" src="https://github.com/user-attachments/assets/e09654e3-d35b-4312-8f5a-d54cb1aa47bc" />
 
 
-# Tabulation with readings
+# Tabulation with readings:
+![WhatsApp Image 2025-11-26 at 13 14 59_cc92dd75](https://github.com/user-attachments/assets/21501d50-c83c-4623-a9c4-5790281e242e)
+
+
 
 ## Semilog plotted Graph
+
+![WhatsApp Image 2025-11-26 at 13 15 31_41dd5dca](https://github.com/user-attachments/assets/bc3ef619-1254-4970-9e5f-1d8df477c1d9)
+
+## RESULT:
+
+![WhatsApp Image 2025-11-26 at 13 15 52_24c07967](https://github.com/user-attachments/assets/fa0bd0f8-75e6-45d4-bb1f-c7a8563ab1ae)
+
+
 
 <img width="697" height="292" alt="image" src="https://github.com/user-attachments/assets/931385be-3c78-4682-a10c-1924b3faa1d4" />
